@@ -1,4 +1,4 @@
-update=Sun 20 Dec 2020 02:57:29 PM EST
+update=Sun 20 Dec 2020 05:46:43 PM EST
 version=1
 last_client=pcbnew
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=penroserombus.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -239,7 +239,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Power
 Clearance=0.2
-TrackWidth=2
+TrackWidth=1
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
