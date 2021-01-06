@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name penroserombus)(type KiCad)(uri ${KIPRJMOD}/penroserombus.pretty)(options "")(descr ""))
+)
