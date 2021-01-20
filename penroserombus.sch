@@ -541,4 +541,12 @@ F 3 "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
 	1    5650 3350
 	1    0    0    -1  
 $EndComp
+Text Notes 3450 4900 0    50   ~ 0
+port G
+Text Notes 9250 4750 0    50   ~ 0
+port C
+Text Notes 3400 3750 0    50   ~ 0
+Port A
+Text Notes 9250 3600 0    50   ~ 0
+Port T
 $EndSCHEMATC
