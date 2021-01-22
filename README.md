@@ -8,7 +8,7 @@ PCBs to make penrose tilings with addressable LEDs. in order to make a continous
 
 Materials per board:
 
-4x SK6812 (or compatable ws2912) 5050 leds - https://www.aliexpress.com/item/32814778563.html?spm=a2g0o.cart.0.0.119f3c00zzKG71&mp=1
+4x SK6812 (or compatable ws2812b) 5050 leds - https://www.aliexpress.com/item/32814778563.html?spm=a2g0o.cart.0.0.119f3c00zzKG71&mp=1
 
 4x 1x3 female 2.54 mm spaced headers - 
 
