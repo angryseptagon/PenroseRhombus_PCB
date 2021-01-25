@@ -10,7 +10,7 @@ Materials per board:
 
 4x SK6812 (or compatable ws2812b) 5050 leds - https://www.aliexpress.com/item/32814778563.html?spm=a2g0o.cart.0.0.119f3c00zzKG71&mp=1
 
-4x 1x3 female 2.54 mm spaced headers - 
+4x 1x3 female 2.54 mm spaced headers - https://a.aliexpress.com/_mLI1pO5
 
 4x 100 nf decoupling capacitors in 0805 size - 
 
