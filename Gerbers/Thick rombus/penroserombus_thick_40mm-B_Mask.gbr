@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,5.1.9*%
-%TF.CreationDate,2021-01-25T14:02:54-05:00*%
+%TF.CreationDate,2021-01-29T13:59:05-05:00*%
 %TF.ProjectId,penroserombus_thick_40mm,70656e72-6f73-4657-926f-6d6275735f74,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.9) date 2021-01-25 14:02:54*
+G04 Created by KiCad (PCBNEW 5.1.9) date 2021-01-29 13:59:05*
 %MOMM*%
 %LPD*%
 G01*
@@ -19,13 +19,19 @@ G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D10*
 %TO.C,M3*%
+X154973768Y-105938091D03*
+%TD*%
+%TO.C,M3*%
+X139090152Y-84076169D03*
+%TD*%
+%TO.C,M3*%
+X133795891Y-104623696D03*
+%TD*%
+%TO.C,M3*%
+X160268028Y-85390564D03*
+%TD*%
+%TO.C,M3*%
 X125705721Y-110501549D03*
-%TD*%
-%TO.C,M3*%
-X153057392Y-109528261D03*
-%TD*%
-%TO.C,M3*%
-X141006528Y-80485999D03*
 %TD*%
 %TO.C,M3*%
 X168358198Y-79512711D03*
