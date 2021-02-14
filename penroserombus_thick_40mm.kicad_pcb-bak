@@ -2,8 +2,8 @@
 
   (general
     (thickness 1.6)
-    (drawings 32)
-    (tracks 111)
+    (drawings 34)
+    (tracks 114)
     (zones 0)
     (modules 23)
     (nets 11)
@@ -135,7 +135,7 @@
 
   (module penroserombus:HC-5Nylonadhesiveclip (layer F.Cu) (tedit 60143CF7) (tstamp 60145177)
     (at 154.973768 105.938091 351)
-    (fp_text reference REF** (at 0.2 3.8 171) (layer F.SilkS)
+    (fp_text reference M3 (at 0.2 3.8 171) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value HC-5Nylonadhesiveclip (at 0.1 -7.2 171) (layer F.Fab)
@@ -154,7 +154,7 @@
 
   (module penroserombus:HC-5Nylonadhesiveclip (layer F.Cu) (tedit 60143CF7) (tstamp 60145177)
     (at 139.090152 84.076169 351)
-    (fp_text reference REF** (at 0.2 3.8 171) (layer F.SilkS)
+    (fp_text reference M3 (at 0.2 3.8 171) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value HC-5Nylonadhesiveclip (at 0.1 -7.2 171) (layer F.Fab)
@@ -173,7 +173,7 @@
 
   (module penroserombus:HC-5Nylonadhesiveclip (layer F.Cu) (tedit 60143CF7) (tstamp 60145177)
     (at 133.795891 104.623696 351)
-    (fp_text reference REF** (at 0.2 3.8 171) (layer F.SilkS)
+    (fp_text reference M3 (at -2.314719 2.037086 171) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value HC-5Nylonadhesiveclip (at 0.1 -7.2 171) (layer F.Fab)
@@ -192,7 +192,7 @@
 
   (module penroserombus:HC-5Nylonadhesiveclip (layer F.Cu) (tedit 60143CF7) (tstamp 601450F9)
     (at 160.268028 85.390564 351)
-    (fp_text reference REF** (at 0.2 3.8 171) (layer F.SilkS)
+    (fp_text reference M3 (at -0.093085 -2.655496 171) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value HC-5Nylonadhesiveclip (at 0.1 -7.2 171) (layer F.Fab)
@@ -346,7 +346,7 @@
   (module penroserombus:Aliexpress_slideswitch_2P2T (layer F.Cu) (tedit 5FDE379E) (tstamp 5FDFA8FC)
     (at 147.828 94.488 126)
     (path /5FB57982)
-    (fp_text reference SW1 (at 0.01598 -5.639693 126) (layer F.SilkS)
+    (fp_text reference SW1 (at 0.153892 0.030179 216) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_DPDT_x2 (at -0.000001 -7.62 126) (layer F.Fab)
@@ -893,6 +893,12 @@
     )
   )
 
+  (gr_text α (at 143.3576 98.00336 126) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text β (at 152.86228 91.07932 306) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "Gnd\nVcc\nData" (at 129.5908 98.679 342) (layer B.SilkS) (tstamp 6008D0EE)
     (effects (font (size 1.5 1.5) (thickness 0.375)) (justify right mirror))
   )
@@ -950,6 +956,9 @@
   (gr_line (start 173.212299 75.986) (end 133.2123 75.986) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 133.2123 75.986) (end 120.85162 114.02826) (layer Edge.Cuts) (width 0.2))
 
+  (segment (start 128.3462 93.5482) (end 126.5682 98.7171) (width 0.25) (layer F.Cu) (net 1))
+  (segment (start 148.4122 76.7334) (end 151.3078 76.7715) (width 0.25) (layer F.Cu) (net 1))
+  (segment (start 136.0932 113.1951) (end 140.4239 113.2078) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 138.31162 111.108258) (end 138.31162 111.52826) (width 1) (layer F.Cu) (net 1) (status 30))
   (segment (start 134.047512 97.167356) (end 133.252279 99.374395) (width 1) (layer F.Cu) (net 1))
   (segment (start 141.582407 103.689119) (end 139.446 103.6105) (width 1) (layer F.Cu) (net 1))

@@ -5,6 +5,9 @@ PCBs to make penrose tilings with addressable LEDs. in order to make a continous
 | ![thin Rhombus](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/thin_rombus_3drender.jpg) | ![Kite](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/penrosekite_3drender.jpg) |
 |![thick Rhombus](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/thick_rombus_3drender.jpg)|![Dart](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/penrosedart_3drender.jpg)|
 
+Diagram of data:
+![Diagram](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/dataDiagram.png)
+
 Materials per board:
 
 4x SK6812 (or compatable ws2812b) 5050 leds - https://www.aliexpress.com/item/32814778563.html?spm=a2g0o.cart.0.0.119f3c00zzKG71&mp=1
