@@ -1,5 +1,5 @@
 # penroserombus_PCB
-PCBs to make penrose tilings with addressable LEDs. in order to make a continous data signal, the data follows marking shown on PCB. these markings form closed loops, however loops can be merged using the switch onboard. the link together using 5mm U shaped single row connectors. I don't know why I am doing this.
+PCBs to make penrose tilings with addressable LEDs. in order to make a continous data signal, the data follows marking shown on PCB. these markings form closed loops, however loops can be merged using the switch onboard. the link together using 5mm U shaped single row connectors.
 |P3 tiling|P2 tiling|
 |-----------|------------|
 | ![thin Rhombus](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/thin_rombus_3drender.jpg) | ![Kite](https://github.com/toastedice/penroserombus_PCB/blob/main/Images/penrosekite_3drender.jpg) |
